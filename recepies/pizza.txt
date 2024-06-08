@@ -2,10 +2,5 @@ pizza flour
 chicken
 extra cheese
 ghee
-<<<<<<< HEAD
 kaju paste
 dates
-apples
-=======
-kaju paste
->>>>>>> parent of ed6e042 (added dates)
